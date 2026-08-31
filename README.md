@@ -4,7 +4,7 @@ Structured data on Japanese amateur baseball prospects, in English.
 
 Japanese amateur baseball produces hundreds of professional players every year, and a handful of them eventually reach MLB — Shohei Ohtani, Yoshinobu Yamamoto, Roki Sasaki and Yusei Kikuchi were all amateurs in Japan first. Almost none of that pipeline is documented in English.
 
-This repository is the data layer. The written analysis lives at **[Japan Prospect Lab](https://japanprospectlab.substack.com)**.
+This repository is the data layer. The written analysis lives at **[Japan Prospect Lab](https://japanprospects.substack.com)**.
 
 ---
 
