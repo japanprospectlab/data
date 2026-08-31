@@ -7,7 +7,7 @@
 
 **Status: undecided.** Either he enters the NPB draft on October 22, 2026, or he signs directly with an MLB organization — reportedly for over $2 million, with the Dodgers named as the front-runner. Nothing is confirmed.
 
-📄 **Full report: [japanprospects.substack.com](https://japanprospects.substack.com)**
+📄 **Full report: [The Fastest Pitch in Koshien History](https://japanprospects.substack.com/p/the-fastest-pitch-in-koshien-history)**
 
 ---
 
