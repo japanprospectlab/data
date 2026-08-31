@@ -1,0 +1,24 @@
+attribute,ootp_current,ootp_potential,scale,evidence,note
+Player Name,Shoki Oda,,,,Western order for OOTP import
+Position,SP,,,Complete games at HS level,Starter
+Throws,R,,,,
+Bats,R,,,,
+Height,6'1",,,186 cm converted,
+Weight,176,,,80 kg converted,Was 165 lbs in 2025 - still filling out
+Date of Birth,2008-06-03,,,REPORTED,Not primary-source confirmed
+Nationality,Japan,,,,
+Velocity,92-95,,mph,"Sits 90-93, peak 97.6",Set peak/max to 98 if your build supports it
+Stuff,55,65,20-80,7.71 K/9 with elite velocity,"K rate lags the velocity - do not over-rate current Stuff"
+Movement,50,55,20-80,6.69 H/9 / 0.83 WHIP,Contact suppression is good not elite
+Control,55,60,20-80,0.77 BB/9 / 2.2% BB rate (est),Strongest present skill
+Stamina,60,65,20-80,114-pitch and 130-pitch complete games,Japanese HS workload - see injury note
+Fastball,65,75,20-80,97.6 mph peak / Koshien record 96.9,Primary weapon
+Slider,50,55,20-80,81-86 mph hard and short,Primary out pitch
+Forkball,50,55,20-80,Added during 2026,"Map splitter to Forkball in OOTP"
+Curveball,45,50,20-80,71-74 mph get-me-over,Big velocity separation
+Changeup,40,45,20-80,75-80 mph,Least developed
+Groundball/Flyball,Neutral,,,Not published,No batted-ball data exists for Japanese HS
+Hold Runners,50,,20-80,Not published,Default
+Overall FV,50,,FV,Japan Prospect Lab evaluation,Discounted for distance from MLB
+Injury Risk,Elevated,,,"130 pitches on injured left leg (July); 2-1/3 IP 8 H on one day rest (Aug)",Recommend raising injury proneness
+Personality/Work Ethic,Not rated,,,No reliable public information,Leave at default

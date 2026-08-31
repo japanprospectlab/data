@@ -1,0 +1,13 @@
+league_jp,league_en,category,typical_age,approx_season_games,approx_milb_equivalent,confidence,basis,notes
+NPB 一軍,NPB top division,Professional,22-35,143,Between AAA and MLB,high,"Published NPB-MLB translation factors exist for offense (roughly 0.85-0.90)","Often described as AAAA. Top NPB pitchers translate better than hitters"
+NPB二軍 (イースタン・ウエスタン),NPB farm (Eastern / Western League),Professional,18-26,~120,AA to AAA,medium,"Rosters mix recent draftees with fringe NPB players","Oisix Niigata and Hayate Shizuoka joined as expansion farm clubs; their players are NPB-draft eligible"
+東都大学野球連盟 1部,Tohto University League Div 1,University,18-22,~40,High-A to AA,medium,"Frequently cited as the strongest university league; heavy NPB draft representation","Promotion/relegation system. Div 2 is materially weaker"
+東京六大学野球連盟,Tokyo Big6 University League,University,18-22,~40,High-A to AA,medium,"Historic and most-covered league; talent varies year to year","Highest media exposure of any university league, which inflates perceived level"
+首都大学野球連盟,Shuto University League,University,18-22,~40,A to High-A,low,"Regional league with periodic NPB draftees",Wide variance between schools
+地方大学リーグ (その他),Regional university leagues,University,18-22,~30-40,Rookie to High-A,low,"Enormous variance. Some leagues produce NPB draftees annually, others almost never","Do not treat as a single level"
+社会人野球 (都市対抗・日本選手権),Corporate leagues (shakaijin),Corporate,22-30,~30-50,AA,medium,"Rosters are ex-university players, some ex-NPB. Company-employed, not paid as professionals","Players are draft-eligible: 2 years after university, 3 years after high school"
+四国アイランドリーグplus,Shikoku Island League plus,Independent,18-26,~80,Low-A to A,medium,"Mix of undrafted high school and university players; several NPB draftees per year","Players are draft-eligible every year from their first season"
+ルートインBCリーグ,BC League,Independent,18-26,~70-80,Rookie to Low-A,medium,"Similar profile to Shikoku IL. Includes NPB third-team affiliates in some seasons","Official data at bc-l-data.jp is more complete than aggregator sites"
+九州アジアリーグ,Kyushu Asia League,Independent,18-26,~60,Rookie,low,"Newer and smaller league; limited public statistics",Coverage is thin
+高校野球 (甲子園出場級),High school - Koshien level,Amateur,15-18,~20-40,Elite US high school,medium,"The ~49 teams reaching the national tournament represent the top of ~3800 schools","More games, far more coaching hours, and vastly more pressure than US prep"
+高校野球 (地方大会),High school - prefectural,Amateur,15-18,~10-30,Wide range,low,"3800+ schools nationally; single-elimination prefectural tournaments","Level is not meaningfully summarizable. Judge by opponent, not by league"

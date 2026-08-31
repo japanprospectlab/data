@@ -1,0 +1,57 @@
+field,value,unit,note
+name_en,Shoki Oda,,Western order
+name_jp,織田翔希,,
+name_kana,おだ しょうき,,
+school,Yokohama High School,,Kanagawa Prefecture
+school_jp,横浜高校,,
+class_year,3rd year (senior),,Graduates March 2027
+position,RHP,,
+bats_throws,R/R,,
+height_cm,186,cm,School registered
+height_ft,6'1",ft-in,Converted
+weight_kg,80,kg,School registered; was 75 kg in 2025
+weight_lbs,176,lbs,Converted
+date_of_birth,2008-06-03,,REPORTED - secondary aggregator only. Consistent with school-year cohort but not primary-source confirmed
+age_on_draft_day,18.4,years,As of 2026-10-22
+hometown,Kitakyushu Fukuoka,,
+draft_year,2026,,NPB Draft 2026-10-22
+draft_status,undecided,,May sign with MLB club instead of entering NPB draft
+velo_2025_spring_kmh,148,km/h,
+velo_2025_spring_mph,92.0,mph,
+velo_2025_summer_kmh,152,km/h,
+velo_2025_summer_mph,94.4,mph,
+velo_2025_summer_avg_kmh,143,km/h,Summer Koshien average
+velo_2025_summer_avg_mph,88.9,mph,
+velo_2026_spring_kmh,154,km/h,
+velo_2026_spring_mph,95.7,mph,
+velo_2026_summer_kmh,157,km/h,Career high
+velo_2026_summer_mph,97.6,mph,
+velo_koshien_record_kmh,156,km/h,Fastest pitch recorded at Koshien
+velo_koshien_record_mph,96.9,mph,
+pitch_1,Fastball,,
+pitch_2,Slider 130s km/h (81-86 mph),,
+pitch_3,Splitter,,Added 2026
+pitch_4,Changeup 120s km/h (75-80 mph),,
+pitch_5,Curveball 110s km/h (71-74 mph),,
+spring_2026_IP,35.0,innings,6 outings verified
+spring_2026_H,26,,
+spring_2026_K,30,,
+spring_2026_BB,3,,
+spring_2026_ER,8,,
+spring_2026_ERA,2.06,,
+spring_2026_K9,7.71,,
+spring_2026_BB9,0.77,,
+spring_2026_WHIP,0.83,,
+spring_2026_K_pct_est,22.4,%,BF estimated as (IP*3)+H+BB = 134
+spring_2026_BB_pct_est,2.2,%,estimate
+spring_2026_KBB_pct_est,20.1,%,estimate
+summer_2026_koshien_K,33,,Tournament total
+career_koshien_wins,9,,2nd at Yokohama behind Matsuzaka 11
+career_koshien_K,70,,
+grade_fastball,70/75,20-80,Japan Prospect Lab own evaluation
+grade_slider,50/55,20-80,
+grade_splitter,50/55,20-80,
+grade_curveball,45/50,20-80,
+grade_changeup,40/45,20-80,
+grade_command,50/55,20-80,
+grade_overall_FV,50,FV,

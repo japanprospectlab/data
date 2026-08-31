@@ -1,0 +1,15 @@
+japanese_measure,english_measure,formula,example_in,example_out,caution
+球速 km/h,Velocity mph,mph = kmh / 1.609,157 km/h,97.6 mph,"Japanese stadium guns are not calibrated to MLB Statcast and tend to read optimistic relative to TrackMan. Shade down 1-2 mph when comparing to MLB data"
+身長 cm,Height ft-in,inches = cm / 2.54,186 cm,"6'1""",None
+体重 kg,Weight lbs,lbs = kg * 2.205,80 kg,176 lbs,"School-registered figures. Often updated only once per year, so they lag actual playing weight"
+遠投 m,Long toss ft,ft = m * 3.281,100 m,328 ft,"No MLB equivalent metric. Report as long toss distance; do NOT convert to an arm-strength grade"
+50m走,60-yard dash,"approx: 60yd (54.86m) time is roughly 50m time + 0.6 to 0.7 sec",5.8 sec,~6.4-6.5 sec,"APPROXIMATION ONLY. Standing-start conventions differ between Japanese and US timing. Always label the result as an estimate"
+一塁到達タイム,Home-to-first,no conversion (seconds),3.89 sec,3.89 sec,"MLB scale: 4.30 average, 4.05 plus, under 4.00 elite. Start point is not always documented in Japanese sources"
+二塁送球タイム,(NOT pop time),no conversion (seconds),1.75 sec,1.75 sec,"CRITICAL: Japanese timing is frequently measured FROM RELEASE, not from the catcher receiving the pitch. MLB pop time is catch-to-glove and the record is around 1.85. Never publish a Japanese throw-to-second figure as a pop time"
+打球速度 km/h,Exit velocity mph,mph = kmh / 1.609,153 km/h,95.1 mph,"Directly comparable to MLB exit velocity in concept, but measured with different equipment. Rarely published"
+防御率,ERA,ER * 9 / IP,8 ER in 35 IP,2.06,"Always recompute and compare against the published figure. A mismatch usually means the innings total is wrong"
+奪三振率,K/9,K * 9 / IP,30 K in 35 IP,7.71,None
+与四球率,BB/9,BB * 9 / IP,3 BB in 35 IP,0.77,None
+(打者数は非公表),K% / BB%,"BF approximated as (IP * 3) + H + BB",30 K / 134 BF,22.4 percent,"ESTIMATE ONLY. Batters faced is not published for Japanese amateur baseball. Ignores HBP and reached-on-error, so true rates are marginally lower. Prefer per-nine ratios when precision matters"
+長打率 - 打率,ISO,SLG - AVG,.509 - .309,.200,"English convention is ISO. The Japanese term IsoP is not used in English-language baseball writing"
+出塁率 - 打率,(use BB% instead),OBP - AVG,-,-,"The Japanese term IsoD has no English equivalent in common use. Report BB% or OBP-AVG explicitly"
