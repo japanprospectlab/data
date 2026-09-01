@@ -14,10 +14,12 @@ This repository is the data layer. The written analysis lives at **[Japan Prospe
 |---|---|
 | [`players/`](players/) | One directory per player: game logs, profile, OOTP conversion |
 | [`ootp/`](ootp/) | Out of the Park Baseball roster data. Free, always |
-| [`boards/`](boards/) | Ranked prospect boards with 20-80 grades |
+| [`boards/`](boards/) | Ranked prospect boards. **[2026 NPB draft board](boards/2026-npb-draft-board.csv)** is live |
 | [`reference/`](reference/) | League level equivalencies, unit conversions, school name mappings |
 
 Start with [`reference/league-levels.csv`](reference/league-levels.csv) if you have never tried to place Japanese amateur baseball on a scale you recognize.
+
+The current board is **[2026 NPB Draft Board](boards/)** (18 players, ranked). The written version with scouting notes on each player is [here](https://japanprospects.substack.com/p/japans-draft-is-october-22-here-are).
 
 ---
 
