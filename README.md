@@ -1,6 +1,6 @@
 # Japan Prospect Lab — Open Data
 
-Structured data on Japanese amateur baseball prospects, in English.
+Structured data on Japanese baseball in English: the amateur pipeline that feeds NPB, and the NPB players who could reach MLB.
 
 Japanese amateur baseball produces hundreds of professional players every year, and a handful of them eventually reach MLB — Shohei Ohtani, Yoshinobu Yamamoto, Roki Sasaki and Yusei Kikuchi were all amateurs in Japan first. Almost none of that pipeline is documented in English.
 
@@ -14,12 +14,12 @@ This repository is the data layer. The written analysis lives at **[Japan Prospe
 |---|---|
 | [`players/`](players/) | One directory per player: game logs, profile, OOTP conversion |
 | [`ootp/`](ootp/) | Out of the Park Baseball roster data. Free, always |
-| [`boards/`](boards/) | Ranked prospect boards. **[2026 NPB draft board](boards/2026-npb-draft-board.csv)** is live |
+| [`boards/`](boards/) | Ranked boards. **[2026 NPB draft board](boards/2026-npb-draft-board.csv)** and the **[NPB to MLB posting board](boards/posting-board.csv)** |
 | [`reference/`](reference/) | League level equivalencies, unit conversions, school name mappings |
 
 Start with [`reference/league-levels.csv`](reference/league-levels.csv) if you have never tried to place Japanese amateur baseball on a scale you recognize.
 
-The current board is **[2026 NPB Draft Board](boards/)** (18 players, ranked). The written version with scouting notes on each player is [here](https://japanprospects.substack.com/p/japans-draft-is-october-22-here-are).
+Two boards are live. **[2026 NPB Draft Board](boards/2026-npb-draft-board.csv)** (18 players, ranked) has a [written version with scouting notes](https://japanprospects.substack.com/p/japans-draft-is-october-22-here-are). **[NPB to MLB Posting Board](boards/posting-board.csv)** tracks which NPB players can reach MLB and how, with [the eligibility rules explained](boards/POSTING-ELIGIBILITY.md) - posting requires club consent and has no service time requirement, which is the most common misunderstanding in English coverage.
 
 ---
 

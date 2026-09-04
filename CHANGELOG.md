@@ -4,6 +4,20 @@ Corrections are committed separately from new data, with the source in the commi
 
 ---
 
+## 2026-09-04 — NPB to MLB posting board
+
+**Added**
+
+- `boards/posting-board.csv` — NPB players tracked by how and when they could reach MLB. 18-column schema; two completed moves included as reference rows for the likelihood scale
+- `boards/POSTING-ELIGIBILITY.md` — the four routes out of NPB, the posting calendar, the marginal release fee schedule with a worked example, and how first-team service days are counted. Includes why the fee schedule, not sentiment, explains club reluctance to post players under 25
+
+**Known gaps**
+
+- The board carries two reference rows only. Active rows are added as the November posting window approaches.
+- No MLB equivalency is applied to NPB statistics. No current, rigorous, published conversion exists that this project will stand behind.
+
+---
+
 ## 2026-08-30 — Initial release
 
 **Added**
